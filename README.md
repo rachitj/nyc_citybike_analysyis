@@ -8,9 +8,11 @@ The objective of this project is to do a deep dive analysis on citybike data to 
 
 # Deliverables
 1. A set of SQL queries you undertake to understand the underlying data
-  Please follow the path fro SQL queries: ![]https://github.com/rachitj/nyc_citybike_analysyis/tree/master/SQL%20Queries
+  Please follow the path fro SQL queries:https://github.com/rachitj/nyc_citybike_analysyis/tree/master/SQL%20Queries
 2. A Python script which includes deeper analyses of the data
+  : https://github.com/rachitj/nyc_citybike_analysyis/blob/master/analysis_v1.ipynb
 3. A few charts and summary text to capture the ‘story’ of your analyses/recommendations You can choose to combine these outputs in a single file such as a Jupyter notebook, or present them as separate files.
+  : https://github.com/rachitj/nyc_citybike_analysyis/blob/master/nyc_bike_analysis.xlsx
 
 
 # References
