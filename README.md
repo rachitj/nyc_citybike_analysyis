@@ -16,8 +16,8 @@ The objective of this project is to do a deep dive analysis on citybike data to 
 
 # Steps
 1. Import the csv data from https://www.citibikenyc.com/system-data in SQL Server in one central table.Data fields :
-  1.Trip Duration (seconds)
-  2.Start Time and Date
+  i.Trip Duration (seconds)
+  ii.Start Time and Date
   3.Stop Time and Date
   4.Start Station Name
   5.End Station Name
