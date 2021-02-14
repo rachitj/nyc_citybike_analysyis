@@ -29,10 +29,14 @@ The objective of this project is to do a deep dive analysis on citybike data to 
     11. Year of Birth
 
     
-2. As the data is pulled for 2016-17, the resords are in millions ( 29 million approx). This can make the system very slow. Hence it is advisable to make a daily fact with proper constrains and indexes. This will make the analysis considerably faster.
+2. As the data is pulled for 2016-17, the resords are in millions ( 29 million approx). This can make the system very slow. Hence it is advisable to make a daily fact with proper constrains and indexes. This will make the analysis considerably faster. Records count : 27756696
     1. Link for SQL code : https://github.com/rachitj/nyc_citybike_analysyis/blob/master/SQL%20Queries/1.%20daily_fact.sql
     2. Measures:
        1. avg_trip_duration_min : Average of trips duration in minutes, on a daily basis
+       2. avg_distance_km : Average of trips distance counted in KM based on lattitude and longitudes of starting and end stations
+       3. speed_mps : Average speed of trips in a day in metres per second. This measuere can help us understand the trip speed by age, weekends,gender, traffic congestions etc.
+       4. total_dist_km : sum of all trips in a day (in Km)
+       5. total_trip_duration_min : Sum of all trips duration in a day (in minutes)
         
   
 
