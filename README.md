@@ -29,7 +29,10 @@ The objective of this project is to do a deep dive analysis on citybike data to 
     11. Year of Birth
 
     
-2. As the data is pulled for 2016-17, the resords are in millions ( 29 million approx). This can make the system very slow. Hence it is advisable to make a daily fact with proper constrains and indexs. This will make the analysis considerably faster.
+2. As the data is pulled for 2016-17, the resords are in millions ( 29 million approx). This can make the system very slow. Hence it is advisable to make a daily fact with proper constrains and indexes. This will make the analysis considerably faster.
+  1. Link for SQL code :
+  2. Measures:
+  
 
 
 
