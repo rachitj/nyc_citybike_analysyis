@@ -15,17 +15,13 @@ The objective of this project is to do a deep dive analysis on citybike data to 
   : https://github.com/rachitj/nyc_citybike_analysyis/blob/master/nyc_bike_analysis.xlsx
 
 # Steps
-1.  Import the csv data from https://www.citibikenyc.com/system-data in SQL Server in one central table.Data fields :
-  i.  Trip Duration (seconds)
+1. Import the csv data from https://www.citibikenyc.com/system-data in SQL Server in one central table.Data fields :
+  i. Trip Duration (seconds)
   ii. Start Time and Date
 
     
 2. As the data is pulled for 2016-17, the resords are in millions ( 29 million approx). This can make the system very slow. Hence it is advisable to make a daily fact with proper constrains and indexs. This will make the analysis considerably faster.
 
- Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
 
 
 # References
