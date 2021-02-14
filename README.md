@@ -22,6 +22,11 @@ The objective of this project is to do a deep dive analysis on citybike data to 
     
 2. As the data is pulled for 2016-17, the resords are in millions ( 29 million approx). This can make the system very slow. Hence it is advisable to make a daily fact with proper constrains and indexs. This will make the analysis considerably faster.
 
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
+
 
 # References
 image : https://www.bing.com/images/search?view=detailV2&ccid=p9L4XDbH&id=C00F77E23BDCA6C6B369526FA8D6719A812FA893&thid=OIP.p9L4XDbH0hZvkGn6Ev94VwHaFi&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fRa7d2f85c36c7d2166f9069fa12ff7857%3frik%3dk6gvgZpx1qhvUg%26riu%3dhttp%253a%252f%252fwww.nycbikemaps.com%252fwp-content%252fuploads%252f2013%252f05%252fciti-bike-at-barrow-and-hudson.jpg%26ehk%3dnhbVs7oj%252f9omBgG8SUaj3DBR%252fJ1cTstdRcHEvzUOAgU%253d%26risl%3d%26pid%3dImgRaw&exph=765&expw=1022&q=nyc+citi+bikes&simid=608019725899073432&ck=82EB81439AEE975783875F5F3E9F2E2A&selectedIndex=5&FORM=IRPRST&ajaxhist=0
