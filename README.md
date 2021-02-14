@@ -30,8 +30,10 @@ The objective of this project is to do a deep dive analysis on citybike data to 
 
     
 2. As the data is pulled for 2016-17, the resords are in millions ( 29 million approx). This can make the system very slow. Hence it is advisable to make a daily fact with proper constrains and indexes. This will make the analysis considerably faster.
-    1. Link for SQL code :
+    1. Link for SQL code : https://github.com/rachitj/nyc_citybike_analysyis/blob/master/SQL%20Queries/1.%20daily_fact.sql
     2. Measures:
+       1. avg_trip_duration_min : Average of trips duration in minutes, on a daily basis
+        
   
 
 
