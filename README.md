@@ -14,6 +14,9 @@ The objective of this project is to do a deep dive analysis on citybike data to 
 3. A few charts and summary text to capture the ‘story’ of your analyses/recommendations You can choose to combine these outputs in a single file such as a Jupyter notebook, or present them as separate files.
   : https://github.com/rachitj/nyc_citybike_analysyis/blob/master/nyc_bike_analysis.xlsx
 
+# Scope
+The scope is limited only to bike-tripds data on daily-basis. Addidtional info such as historical data fro 201-17 fro revenue model, total available bikes at a location etc. can enrich the analysis, but is not covered here.
+
 # Steps
 1. Import the csv data from https://www.citibikenyc.com/system-data in SQL Server in one central table.Data fields :
     1. Trip Duration (seconds)
