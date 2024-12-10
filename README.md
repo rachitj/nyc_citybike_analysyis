@@ -1,7 +1,7 @@
 # nyc_citybike_analysyis
 ![](https://github.com/rachitj/nyc_citybike_analysyis/blob/main/nyc_city_bike.jpg)
 # Description
-Alta Bicycle Share, the company that owns and operates the Citi Bike program, is facing some unexpected financial difficulties as a result of dropping sponsorship revenue for the bike share program. Faced with a revenue shortfall, Alta would like you to mine the Citi Bike stations and trips data to come up with solutions and projected revenue impact, or alternatively investigate ways to reduce expenses such as the number of operating stations, without impacting ride volume too negatively.
+Altas Bicycle Share, the company that owns and operates the Citi Bike program, is facing some unexpected financial difficulties as a result of dropping sponsorship revenue for the bike share program. Faced with a revenue shortfall, Altas would like you to mine the Citi Bike stations and trips data to come up with solutions and projected revenue impact, or alternatively investigate ways to reduce expenses such as the number of operating stations, without impacting ride volume too negatively.
 
 # Objective
 The objective of this project is to do a deep dive analysis on citybike data to come up with solutions and projected revenue impact, or alternatively investigate ways to reduce expenses.
